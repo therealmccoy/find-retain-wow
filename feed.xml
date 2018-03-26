@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>find-retain-wow</title>
+    <title>find-retain-wow-all-about-startup-sales</title>
     <link href="https://therealmccoy.github.io/find-retain-wow/feed.xml" rel="self" />
     <link href="https://therealmccoy.github.io/find-retain-wow" />
-    <updated>2018-03-26T06:29:49+05:30</updated>
+    <updated>2018-03-26T07:41:44+05:30</updated>
     <author>
         <name>abhishek rai</name>
     </author>
@@ -16,11 +16,15 @@
         </author>
         <link href="https://therealmccoy.github.io/find-retain-wow/what-is-find-retain-wow/"/>
         <id>https://therealmccoy.github.io/find-retain-wow/what-is-find-retain-wow/</id>
+            <category term="startupsales"/>
+            <category term="startup"/>
+            <category term="sales"/>
 
-        <updated>2018-03-26T05:43:24+05:30</updated>
+        <updated>2018-03-26T06:45:04+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://therealmccoy.github.io/find-retain-wow/media/posts/1/pexels-photo-751073.jpeg" alt="" />
                 <figure class="post__image post__image--wide" contenteditable="false"><img src="https://therealmccoy.github.io/find-retain-wow/media/posts/1/pexels-photo-751073.jpeg" alt="Find, Retain, Wow is the place to discuss everything about Startup Sales and sales in general!" width="1280" height="853">
 <figcaption contenteditable="true">Find, Retain and Wow your startup's customers!</figcaption>
 </figure>
