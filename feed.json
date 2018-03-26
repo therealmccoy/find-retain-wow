@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "find-retain-wow",
+    "description": "",
+    "home_page_url": "https://therealmccoy.github.io/find-retain-wow",
+    "feed_url": "https://therealmccoy.github.io/find-retain-wow/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "abhishek rai"
+    },
+    "items": [
+        {
+            "id": "https://therealmccoy.github.io/find-retain-wow/what-is-find-retain-wow/",
+            "url": "https://therealmccoy.github.io/find-retain-wow/what-is-find-retain-wow/",
+            "title": "What is &#x27;Find, Retain, Wow&#x27;?",
+            "content_html": "<figure class=\"post__image post__image--wide\" contenteditable=\"false\"><img src=\"https://therealmccoy.github.io/find-retain-wow/media/posts/1/pexels-photo-751073.jpeg\" alt=\"Find, Retain, Wow is the place to discuss everything about Startup Sales and sales in general!\" width=\"1280\" height=\"853\">\n<figcaption contenteditable=\"true\">Find, Retain and Wow your startup's customers!</figcaption>\n</figure>\n<p> </p>\n<p>During last decade or so, the techonlogical barrier to start a startup has considerably come down. No need to have your own servers, set-up data-centers, hosting etc.</p>\n<p>And then came social media and this <em>'viral'</em> pehomenon, and suddenly one could be a <em>'overnight success'</em>.</p>\n<p>But over a period of time, it is becoming more and more difficult for a new startup to get customers. The reason is simple, the things which made starting a startup simple, has now given the customer a big basket of choices to choose from. Not mentioning, ever decreasing short attention time.</p>\n<p class=\"msg msg--highlight \"><strong>Things have come to such pass that 'attention' has become the biggest obstacle of building a successful startup, ie getting the attention of your customer! </strong></p>\n<p>Perhaps it could be even said that the resources in terms of both time and money which were earlier deployed for just starting a startup, are now being deployed to get the first bunch of customers. In some cases, many folds over.</p>\n<p>The reason now for which the startups are not succeeding is not 'not having the technology' but 'not having the customers'.</p>\n<p>A few decades back, it was said about the customers that '<em>If you build for them, they will come to you' </em>because the entire <em>'building' </em>stuff was the challenge.</p>\n<p class=\"msg msg--highlight \">Now the above statement could be very well rephrased as <em>'If you build for them, you still have to find them'</em></p>\n<p>Find, Retain, Wow aims to be that place, which could solve your queries regarding how to find the first bunch of customers for your startup, what you are doing right and what you are doing not so right in your startup sales and from there on we move to how to retain your customers in this ultra-competitive environment and then to keep them for the life-time, by delivering a 'wow' experience!</p>\n<p>You can email your specific queries or post comments on this blog's post regarding the same.</p>\n<p class=\"msg msg--highlight \"><strong>'<em>Amat Victoria Curam</em>' which means 'Victory loves preparation.</strong></p>\n<p>Find, Retain, Wow helps you prepare for your startup victory by guiding you through your company's entire sales set-up and process.</p>\n<p><strong>Saddle up, lock and load!</strong></p>",
+            "author": {
+                "name": "abhishek rai"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-03-26T05:43:24+05:30",
+            "date_modified": "2018-03-26T05:43:24+05:30"
+        }
+    ]
+}
